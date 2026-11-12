@@ -1,0 +1,16 @@
+{
+ "_설명": "원자료를 받는 즉시, 값을 보기 전에 채워 커밋한다(protocols/05_preregistration.md). '_'로 시작하는 키는 설명이다.",
+ "received_at": "YYYY-MM-DDTHH:MM:SS+09:00",
+ "received_by": "",
+ "received_how": "",
+ "raw_bundle": [
+  {"file": "", "bytes": 0, "sha256": ""}
+ ],
+ "layout": {"file": "plate_layout.csv", "sha256": ""},
+ "freeze_manifest_commit": "",
+ "viewed_before_freeze": [],
+ "blind": {
+  "sample_values_linked_to_conditions": false,
+  "_note": "판정 규칙을 통과하기 전에는 시료 칸의 값을 온도·시간과 연결하지 않는다"
+ }
+}

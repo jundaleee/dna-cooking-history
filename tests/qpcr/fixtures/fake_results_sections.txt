@@ -1,0 +1,19 @@
+* Block Type = 96-Well Block (0.1mL)
+* Chemistry = SYBR_GREEN
+* Experiment File Name = C:\Applied Biosystems\StepOne Software v2.3\experiments\FAKE_plate.eds
+* Experiment Run End Time = 2026-11-06 09:00:00 AM KST
+* Instrument Type = steponeplus
+* Passive Reference = ROX
+
+[Amplification Data]
+Well	Cycle	Target Name	Rn	Delta Rn
+A1	1	COI-104	1.0010	0.0010
+A1	2	COI-104	1.0020	0.0020
+A1	3	COI-104	1.0030	0.0030
+
+[Results]
+Well	Sample Name	Target Name	Task	Reporter	Cт	Quantity	Comments	BADROX	EXPFAIL
+A1	C-080-30-1	COI-104	UNKNOWN	SYBR	21.40			N	N
+A2	C-080-30-1	COI-104	UNKNOWN	SYBR	21.55			N	N
+A3	C-080-30-1	COI-586	UNKNOWN	SYBR	24.10			N	N
+A4	C-080-30-1	COI-586	UNKNOWN	SYBR	Undetermined			N	N
